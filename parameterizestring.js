@@ -6,3 +6,4 @@ const paramstr = (str)=>{
 }
 
 console.log(paramstr(str))
+console.log("git check")
