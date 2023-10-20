@@ -20,3 +20,4 @@ const splitinWords = (msg ,symbol)=>{
 
 
 console.log(splitinWords("sudais is my name", " "))
+console.log(splitinWords("sudais is my name", " "))
